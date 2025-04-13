@@ -1,5 +1,5 @@
 /include/ "system-conf.dtsi"
-#include <dt-bindings/gpio/gpio.h>
+#include "include/dt-bindings/gpio/gpio.h"
 
 / {
 	model = "Zynq Cora Z7 Development Board";
